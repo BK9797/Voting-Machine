@@ -1,7 +1,6 @@
 # Voting-Machine
 
 ## Project Description:
-
 - Key 1 to vote for candidate A
 - Key 2 to vote for candidate B
 - Key 3 to vote for candidate C
